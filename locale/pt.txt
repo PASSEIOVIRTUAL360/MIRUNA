@@ -1,0 +1,31 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_0214D395_0ECF_5DE7_41A6_F23892248711.label = New Panorama20
+panorama_05E74B29_0ECF_4D21_41A7_71E098BE71EF.label = New Panorama21
+panorama_05E90215_0ECF_3EE7_416B_24B1281C9AE7.label = New Panorama22
+panorama_05E9D938_0ECF_CD2E_4197_6A46284B2652.label = New Panorama23
+panorama_05E89052_0ECF_DB7D_41A1_45FE3AB1AFBC.label = New Panorama24
+panorama_05E8E77C_0ECF_C525_4199_9C7269D297B1.label = New Panorama25
+panorama_05E95E62_0ECF_C75D_418D_4444832ED2C7.label = New Panorama26
+panorama_05E8B5BD_0ECF_C526_4177_E51CB2BA5F7A.label = New Panorama27
+panorama_05E94DD4_0ECF_C566_41A6_848E144C1350.label = New Panorama28
+panorama_05E9556E_0ECF_C525_417F_FB8C8F5ED192.label = New Panorama29
+panorama_05E91D3E_0ECF_C522_418E_F3322724BBDB.label = New Panorama30
+panorama_05E984DB_0ECF_3B62_41A9_D963B13A8201.label = New Panorama31
+panorama_05E9DBE8_0ECF_4D2E_41AD_7BCFFDB163C0.label = New Panorama32
+panorama_05E9A30D_0ECF_5EE7_41A8_1747D20A98E7.label = New Panorama33
+panorama_05E919F4_0ECF_4D25_4199_F452E133B478.label = New Panorama34
+panorama_05E9E0DA_0ECF_7B6D_41A4_6C95D9C70619.label = New Panorama35
+panorama_05E927E2_0ECF_455D_41A2_5DE0CFE29AD6.label = New Panorama37
+panorama_05E9DEDA_0ECF_476D_41A8_32736A3DBEEB.label = New Panorama38
+panorama_05E90667_0ECF_4722_4140_E84728F5A50B.label = New Panorama39
+
+## Tour
+
+### Description
+
+### Title
+tour.name = MIRUNA
